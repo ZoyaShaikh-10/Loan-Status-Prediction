@@ -1,0 +1,107 @@
+.body{
+    background:rgb(97, 66, 66)
+}
+.hello{
+    background: rgba(43, 43, 88, 0.904);
+    margin-top:0%;
+    padding-top: 3%;
+}
+
+
+.heading{
+    margin-left: 28%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(245, 245, 245, 0.863);
+    padding-top: 10%;
+    background: rgba(146, 136, 241, 0.548);
+    width: 50%;
+    padding: 2%;
+    padding-left: 12%
+}
+.container-main{
+    /* background: rgba(133, 128, 128, 0.986); */
+    /* background: whitesmoke; */
+    background: rgb(192, 192, 207);
+    margin-top: 1.5%;
+    width: 50%;
+    margin-left: 28%;
+    
+}
+.form-group1{
+    padding-left: 2%;
+    margin-left: 0%;
+    padding-top: 0.1%
+   
+}
+.button2{
+    padding: 2%;
+    font-size: medium;
+    width: 20%;
+    margin-right: 10%;
+    /* margin-left: 0.0%; */
+    margin-bottom: 0%;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(43, 43, 88, 0.904);
+    
+}
+
+
+.form-group{
+    /* background: gray; */
+    width: 50%;
+    margin-top:1%;
+}
+
+.form-control{
+    background: white;
+    /* background: rgba(146, 136, 241, 0.548); */
+
+    /* background: rgb(90, 69, 87); */
+    padding-right: 5%;
+    margin: 0.1%;
+    margin-left: 70%;
+    color: black;
+
+   
+}
+
+::-webkit-input-placeholder { /* Microsoft Edge */
+    color: black;
+}
+
+.col-sm-10{
+    padding-right: 5%;
+}
+
+.imp{
+    color: white;
+    font-size: large;
+    margin-left: 25%;
+    padding-top: 2%;
+}
+
+/* .heading-2{
+    margin-left: 18%;
+    background: rgba(146, 136, 241, 0.548);
+    font-size: small;
+    width: 55%;
+    padding: 2%;
+    margin-top: 1%;
+} */
+
+.holder{
+    margin-left: 18%;
+    background: rgba(146, 136, 241, 0.548);
+    font-size: small;
+    width: 55%;
+    padding: 2%;
+    margin-top: 1%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
