@@ -7,12 +7,12 @@ Project objective:
 
 Project Details:
 
-  -Libraries
+- Libraries
   
-  a -  Pandas
-  b -  sklearn
-  c - matplotlib and seaborn (For Visulaization Purpose)
-  d - numpy
+  -  Pandas
+  -  sklearn
+  - matplotlib and seaborn (For Visulaization Purpose)
+  - numpy
   
   Thank You!
   
